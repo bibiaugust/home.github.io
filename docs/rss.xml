@@ -1,4 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Welcome My Person CookBook!</title><link>https://bibiaugust.github.io/bibiaugust.home.github.io</link><description>You can still there everytime.</description><copyright>Welcome My Person CookBook!</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>file:///D:/Documents/WeChat%20Files/All%20Users/5ce4b88d1f9bcc425b7a00cbbe1c8208.jpg</url><title>avatar</title><link>https://bibiaugust.github.io/bibiaugust.home.github.io</link></image><lastBuildDate>Thu, 11 Jul 2024 04:09:29 +0000</lastBuildDate><managingEditor>Welcome My Person CookBook!</managingEditor><ttl>60</ttl><webMaster>Welcome My Person CookBook!</webMaster><item><title>记得考古哟！</title><link>https://bibiaugust.github.io/bibiaugust.home.github.io/post/ji-de-kao-gu-yo-%EF%BC%81.html</link><description>诶嘿嘿！&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Welcome My Person CookBook!</title><link>https://bibiaugust.github.io/bibiaugust.home.github.io</link><description>You can still there everytime.</description><copyright>Welcome My Person CookBook!</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>file:///D:/Documents/WeChat%20Files/All%20Users/5ce4b88d1f9bcc425b7a00cbbe1c8208.jpg</url><title>avatar</title><link>https://bibiaugust.github.io/bibiaugust.home.github.io</link></image><lastBuildDate>Thu, 11 Jul 2024 04:29:57 +0000</lastBuildDate><managingEditor>Welcome My Person CookBook!</managingEditor><ttl>60</ttl><webMaster>Welcome My Person CookBook!</webMaster><item><title>一些常用配置</title><link>https://bibiaugust.github.io/bibiaugust.home.github.io/post/yi-xie-chang-yong-pei-zhi.html</link><description>`MarkDown` **code**:&#13;
+# 这是一级标题&#13;
+## 这是二级标题&#13;
+### 这是三级标题&#13;
+#### 以此类推&#13;
+&#13;
+#*#^_^$%@/\@&gt;!D&#13;
+&#13;
+`code cake` **code**:&#13;
+单独的 `code`  &#13;
+&#13;
+复合的 `c` `o` `d` `e` &#13;
+&#13;
+ - 这里有一个bug，代码块两行之间没有空行的话就会跳，不知道为什么，有没有大佬解释一下_&#13;
+ |  e.g.&#13;
+&#13;
+ |  **不空行**：&#13;
+ |  代码块1`I'm`&#13;
+ |  代码块2`bibiaugust`&#13;
+&#13;
+ |  **有空行**：&#13;
+ |  代码块1`I'm`&#13;
+&#13;
+ |  代码块2`bibiaugust`。</description><guid isPermaLink="true">https://bibiaugust.github.io/bibiaugust.home.github.io/post/yi-xie-chang-yong-pei-zhi.html</guid><pubDate>Thu, 11 Jul 2024 04:26:41 +0000</pubDate></item><item><title>记得考古哟！</title><link>https://bibiaugust.github.io/bibiaugust.home.github.io/post/ji-de-kao-gu-yo-%EF%BC%81.html</link><description>诶嘿嘿！&#13;
 2024/7/11 12：00&#13;
 本人成功创建本网站并发了一篇帖子！！！。</description><guid isPermaLink="true">https://bibiaugust.github.io/bibiaugust.home.github.io/post/ji-de-kao-gu-yo-%EF%BC%81.html</guid><pubDate>Thu, 11 Jul 2024 04:02:28 +0000</pubDate></item></channel></rss>

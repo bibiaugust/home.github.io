@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Welcome to Me!</title><link>https://bibiaugust.github.io/bibiaugust.home.github.io</link><description>You can still there everytime.</description><copyright>Welcome to Me!</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/155275542?v=4&amp;size=64</url><title>avatar</title><link>https://bibiaugust.github.io/bibiaugust.home.github.io</link></image><lastBuildDate>Thu, 11 Jul 2024 04:44:51 +0000</lastBuildDate><managingEditor>Welcome to Me!</managingEditor><ttl>60</ttl><webMaster>Welcome to Me!</webMaster><item><title>一些常用配置</title><link>https://bibiaugust.github.io/bibiaugust.home.github.io/post/yi-xie-chang-yong-pei-zhi.html</link><description>`MarkDown` **code**:&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Welcome to Me!</title><link>https://bibiaugust.github.io/home.github.io</link><description>You can still there everytime.</description><copyright>Welcome to Me!</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/155275542?v=4&amp;size=64</url><title>avatar</title><link>https://bibiaugust.github.io/home.github.io</link></image><lastBuildDate>Thu, 11 Jul 2024 16:11:32 +0000</lastBuildDate><managingEditor>Welcome to Me!</managingEditor><ttl>60</ttl><webMaster>Welcome to Me!</webMaster><item><title>一些常用配置</title><link>https://bibiaugust.github.io/home.github.io/post/yi-xie-chang-yong-pei-zhi.html</link><description>`MarkDown` **code**:&#13;
 # 这是一级标题&#13;
 ## 这是二级标题&#13;
 ### 这是三级标题&#13;
@@ -22,6 +22,6 @@
  |  **有空行**：&#13;
  |  代码块1`I'm`&#13;
 &#13;
- |  代码块2`bibiaugust`。</description><guid isPermaLink="true">https://bibiaugust.github.io/bibiaugust.home.github.io/post/yi-xie-chang-yong-pei-zhi.html</guid><pubDate>Thu, 11 Jul 2024 04:26:41 +0000</pubDate></item><item><title>记得考古哟！</title><link>https://bibiaugust.github.io/bibiaugust.home.github.io/post/ji-de-kao-gu-yo-%EF%BC%81.html</link><description>诶嘿嘿！&#13;
+ |  代码块2`bibiaugust`。</description><guid isPermaLink="true">https://bibiaugust.github.io/home.github.io/post/yi-xie-chang-yong-pei-zhi.html</guid><pubDate>Thu, 11 Jul 2024 04:26:41 +0000</pubDate></item><item><title>记得考古哟！</title><link>https://bibiaugust.github.io/home.github.io/post/ji-de-kao-gu-yo-%EF%BC%81.html</link><description>诶嘿嘿！&#13;
 2024/7/11 12：00&#13;
-本人成功创建本网站并发了一篇帖子！！！。</description><guid isPermaLink="true">https://bibiaugust.github.io/bibiaugust.home.github.io/post/ji-de-kao-gu-yo-%EF%BC%81.html</guid><pubDate>Thu, 11 Jul 2024 04:02:28 +0000</pubDate></item></channel></rss>
+本人成功创建本网站并发了一篇帖子！！！。</description><guid isPermaLink="true">https://bibiaugust.github.io/home.github.io/post/ji-de-kao-gu-yo-%EF%BC%81.html</guid><pubDate>Thu, 11 Jul 2024 04:02:28 +0000</pubDate></item></channel></rss>
